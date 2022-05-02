@@ -1,7 +1,7 @@
 Hi 👋 My name is Marnin Audu
 ============================
 
-Frontend developer
+Frontend Web Developer
 ------------------
 
 I'm a computer science student exploring the software development world and solving everyday problems with code
