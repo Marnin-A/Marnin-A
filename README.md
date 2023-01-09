@@ -1,12 +1,14 @@
 Hi 👋 My name is Marnin Audu
 ============================
 
-Full Stack Web Developer
+About Me
 ------------------
 
-I'm a computer science student exploring the software development world and solving everyday problems with code
+I'm a computer science student and full stack dev exploring how I can implement my own ideas, and help others do the same as I continue to 
+develop my programming skills and my perspective on the world of technology. If you have an idea you'd like to work on feel free to let me 
+know I'd love to work with you.
 
-*   🌍  I'm based in Kaduna, Nigeria
+*   🌍  I'm based in Kaduna, Nigeria (but I can be anywhere😊)
 *   ✉️  You can contact me at [msmaudu@gmail.com](mailto:msmaudu@gmail.com)
 *   🧠  I'm learning the MERN stack
 *   🤝  I'm open to collaborating on Web based projects
