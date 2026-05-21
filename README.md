@@ -4,7 +4,7 @@ Hi 👋 My name is Marnin Audu
 About Me
 ------------------
 
-I'm a problem solver who solves problems with code. I also study Computer Science and have an intense fascination with how things work. If you have an idea you'd like to work on feel free to let me know I'd love to work with you.
+CS graduate interested in ML-based systems, cloud computing, and resource management
 
 *   🌍  I'm based in Abuja, Nigeria (but I can be anywhere😊)
 *   ✉️  You can contact me at [msmaudu@gmail.com](mailto:msmaudu@gmail.com)
