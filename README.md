@@ -8,8 +8,7 @@ CS graduate interested in ML-based systems, cloud computing, and resource manage
 
 *   🌍  I'm based in Abuja, Nigeria (but I can be anywhere😊)
 *   ✉️  You can contact me at [msmaudu@gmail.com](mailto:msmaudu@gmail.com)
-*   🧠  I'm learning the MERN stack
-*   🤝  I'm open to collaborating on Web based projects
+*   🤝  I'm open to collaborating on projects
 ### Skills && Tools
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
