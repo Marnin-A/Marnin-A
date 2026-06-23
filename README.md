@@ -13,14 +13,9 @@
 
 ## About Me
 
-Software Engineer at **Whatbytes**, building customer-facing web applications and scalable infrastructure. CS graduate (GPA 4.4) from Air Force Institute of Technology, Kaduna.
+Software Engineer at, building customer-facing web applications and scalable infrastructure. CS graduate from Air Force Institute of Technology, Kaduna.
 
-I'm passionate about **open-source software**, **Linux systems**, and **distributed architectures** — the kind of engineering that powers companies like Canonical.
-
-- Based in Abuja, Nigeria — open to remote work globally
-- Currently building real-time FMCG supply chain platforms with observability stacks
-- Experienced with multi-tenant architectures, CI/CD automation, and cloud infrastructure
-- Always exploring new ways to bridge frontend excellence with backend robustness
+I'm passionate about **open-source software**, **Linux systems**, and **distributed architectures**.
 
 ---
 
@@ -76,21 +71,6 @@ I'm passionate about **open-source software**, **Linux systems**, and **distribu
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
----
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**NexDiscovery**](https://nexdiscovery.com) | Full-stack supply chain platform deployed on Linux VMs with automated pipelines | React, FastAPI, MongoDB, Docker |
-| [**SkySec Global**](https://skysecglobal.com) | Scalable e-commerce with inventory management | Next.js, Zustand, shadcn/ui |
-| [**InvestorFyre**](https://investorfyre.com) | FinTech frontend with real-time data integration | Next.js, Zustand, REST API |
-| [**TechLead**](https://techlead.ng) | Production-ready e-learning platform | Next.js, shadcn/ui, TypeScript |
-| [**Freshire**](https://freshire.vercel.app) | Professional networking for young Nigerians | React, TypeScript, Tailwind |
-| [**Squazzle**](https://squazzle.vercel.app) | Real-estate property discovery platform | Next.js, Redux Toolkit, REST API |
-
----
-
 ## Experience
 
 ```
@@ -124,16 +104,6 @@ I'm passionate about **open-source software**, **Linux systems**, and **distribu
 </p>
 
 ---
-
-## WakaTime Stats
-
-<!--START_SECTION:waka-->
-```text
-Loading WakaTime stats... (will populate after first run)
-```
-<!--END_SECTION:waka-->
-
-> *Stats auto-update daily via GitHub Actions. Install [WakaTime](https://wakatime.com) in your editor to start tracking.*
 
 ---
 
