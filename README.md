@@ -74,7 +74,10 @@ I'm passionate about **open-source software**, **Linux systems**, and **distribu
 ## Experience
 
 ```
-2025 - Present  │ Software Developer @ Whatbytes (Remote)
+2026 - Present  │ Full Stack Software Engineer (Contractor)
+                │ React, Node.JS, Python/FastAPI, GCP, AWS, Docker
+                │
+2025 - 2026     │ Software Developer @ Whatbytes (Remote)
                 │ React, Next.js, Tailwind, Python/FastAPI, GCP
                 │
 2024 - 2025     │ Engineering Intern @ Whatbytes (Remote)
