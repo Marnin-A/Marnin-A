@@ -127,11 +127,13 @@ I'm passionate about **open-source software**, **Linux systems**, and **distribu
 
 ## WakaTime Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marnin&layout=compact&title_color=60a5fa&text_color=ffffff&icon_color=60a5fa&bg_color=0d1117&hide_border=true" alt="WakaTime Stats"/>
-</p>
+<!--START_SECTION:waka-->
+```text
+Loading WakaTime stats... (will populate after first run)
+```
+<!--END_SECTION:waka-->
 
-> *Note: WakaTime stats update daily. Set up [WakaTime](https://wakatime.com) and [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) for full metrics.*
+> *Stats auto-update daily via GitHub Actions. Install [WakaTime](https://wakatime.com) in your editor to start tracking.*
 
 ---
 
