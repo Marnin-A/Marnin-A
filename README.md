@@ -15,7 +15,7 @@
 
 Software Engineer at, building customer-facing web applications and scalable infrastructure. CS graduate from Air Force Institute of Technology, Kaduna.
 
-I'm passionate about **open-source software**, **Linux systems**, and **distributed architectures**.
+I'm passionate about **Software Solutions that just Work**, **Linux systems**, and **distributed architectures**.
 
 ---
 
