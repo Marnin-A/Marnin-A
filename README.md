@@ -74,7 +74,7 @@ I'm passionate about creating **software solutions that just work**.
 ## Experience
 
 ```
-2026 - Present  │ Full Stack Software Engineer (Contractor)
+2026 - Present  │ Product Engineer (Contractor)
                 │ React, Node.JS, Python/FastAPI, GCP, AWS, Docker
                 │
 2025 - 2026     │ Software Developer @ Whatbytes (Remote)
